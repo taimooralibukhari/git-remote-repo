@@ -2,4 +2,8 @@ mint payment
 
 in ubuntu now
 
+<<<<<<< HEAD
 in main now ubuntu
+=======
+in main now linux
+>>>>>>> 88b307a073b143482b88e76115ae01f958f90c07
