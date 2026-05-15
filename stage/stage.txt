@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 1111
+=======
+111
+>>>>>>> daaa4a8 (rename stage folder and add file)
 =======
 111
 >>>>>>> daaa4a8 (rename stage folder and add file)
